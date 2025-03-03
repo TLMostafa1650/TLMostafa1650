@@ -4,9 +4,9 @@
 
 ### About Me
 
-🎓 I'm a CS Student in the Faculty of Computer Science, specializing in Data Science.  
-🌟 I have a strong passion for backend development.  
-💻 I love diving into Java and spending hours coding on my computer.  
+🎓 I'm a Computer Science Student in the Faculty of Computer Science, specializing in Data Science.  
+🌟 I have a strong passion for Full Stack development.  
+💻 I love diving into Java,C++ & Python and spending hours coding on my computer.  
 🎇 I enjoy programming and dedicating a lot of my time to improving my skills.
 
 ### 🛠 Skills
